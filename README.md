@@ -1,4 +1,4 @@
-# Minecraft 服务器控制面板 - 完整版
+# Minecraft 服务器控制面板
 
 ## 概述
 
